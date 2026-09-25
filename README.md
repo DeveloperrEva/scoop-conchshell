@@ -58,4 +58,6 @@ publisher's own; please do not copy the manifest into other buckets.
 
 ## Support
 
-support@conchshell.app
+Write to **support@conchshell.app** about the package or the application:
+a failed install or update, a wrong hash, anything else. Issues are turned off
+in this repository, so e-mail is the way to reach the publisher.
